@@ -175,7 +175,7 @@ show aaa sessions
 ```
 Windows-Server-RemoteApp-NPS-2024-2415/
 ├── docs/
-│   ├── documentacion-tecnica.pdf
+│   ├── Edwin De Paula_2024-2415_SDR Semana 9_documentacion-tecnica.pdf
 │   └── screenshots/
 │       ├── topology.png
 │       ├── iis-custom-page.png
